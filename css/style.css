@@ -2207,6 +2207,11 @@ ul.location_icon span {
     padding: 0 20px;
 }
 
+.featured-card-title {
+    font-size: 2rem;
+    color: red;
+}
+
 
 /* events */
 
